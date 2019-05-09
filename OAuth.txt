@@ -1,0 +1,2 @@
+ID Client : 812619214403-s0p82pstmir6mu4dc1sq00ed29gm1irl.apps.googleusercontent.com
+Secret Client : 7BWZDGeKOsx5NZP4ePIPyKc6
